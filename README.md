@@ -32,3 +32,4 @@
 - Ensure that the implementation follows object-oriented design principles and promotes loose coupling between the news agency and subscribers.
 
 ## Class Diagram
+![SoftEng1LabAssignment6](SoftEng1LabAssignment6.png)
